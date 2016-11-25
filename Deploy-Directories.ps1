@@ -19,7 +19,7 @@
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=device-width">
     
-    <title>JustML/README.md at master · justin-brazil/JustML</title>
+    <title>JustML/Function - Deploy-Directories.ps1 at master · justin-brazil/JustML</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -39,10 +39,10 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTE4MjMwNTY6MzI2NTAyOTk4NWIzMmVkNTAwMmFkNTg2OTRhZGMzYTE6NmU1NjMyZDRlZWY4Y2IzNGIxZWRkOGZhMjcwYzMwMGI1MmExMWY5YTgzOWI4ZmMyZjE4NzNlMDlmMjQwOGRiZg==--cb9e9be54017f43119c377bbb16b191604ebdee0">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTE4MjMwNTY6MzI2NTAyOTk4NWIzMmVkNTAwMmFkNTg2OTRhZGMzYTE6YTYzZWRkZmQ5OGEyYmJiZjM2MThhNjk0NzFmNDg2YTEyNGU3YmIxZjEyNDkwNzk5ZjFiOTM1YTkxYjdlOTI4ZQ==--f46a89567f9b1dacd287f49a34a294a2810ae965">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
-    <meta name="request-id" content="62A560F5:6297:1C9BFFA7:5837B374" data-pjax-transient>
+    <meta name="request-id" content="62A560F5:629A:1C5F13A6:5837B34A" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -52,7 +52,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="62A560F5:6297:1C9BFFA7:5837B374" name="octolytics-dimension-request_id" /><meta content="11823056" name="octolytics-actor-id" /><meta content="justin-brazil" name="octolytics-actor-login" /><meta content="e520334080918074e8a2c69656e6592c6f145ac46e9c2e8caf5788c83f0c1e75" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="62A560F5:629A:1C5F13A6:5837B34A" name="octolytics-dimension-request_id" /><meta content="11823056" name="octolytics-actor-id" /><meta content="justin-brazil" name="octolytics-actor-login" /><meta content="e520334080918074e8a2c69656e6592c6f145ac46e9c2e8caf5788c83f0c1e75" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -65,7 +65,7 @@
     <meta name="user-login" content="justin-brazil">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="YTZiZmJiYWFjZDkwOTgyY2MwMDcxMjY4NWY2ZWVmZjJmZTIzYzllYWFmNzRmZWQ0M2Q5YmQzMmM2Nzg1YTk5N3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMTY1Ljk2LjI0NSIsInJlcXVlc3RfaWQiOiI2MkE1NjBGNTo2Mjk3OjFDOUJGRkE3OjU4MzdCMzc0IiwidGltZXN0YW1wIjoxNDgwMDQ1NDMyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="YTUyZGNiYzhkOTVmMDEwZWYyMWZkNzk1ZThmY2JiMGRkZGJmODE0ZTE5YjI4ZjcwNTViNTc5MTgyNTllZWNlNXx7InJlbW90ZV9hZGRyZXNzIjoiOTguMTY1Ljk2LjI0NSIsInJlcXVlc3RfaWQiOiI2MkE1NjBGNTo2MjlBOjFDNUYxM0E2OjU4MzdCMzRBIiwidGltZXN0YW1wIjoxNDgwMDQ1MzkwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
@@ -85,7 +85,7 @@
   <link href="https://github.com/justin-brazil/JustML/commits/master.atom" rel="alternate" title="Recent Commits to JustML:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/justin-brazil/JustML/blob/master/README.md" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/justin-brazil/JustML/blob/master/Function%20-%20Deploy-Directories.ps1" data-pjax-transient>
   </head>
 
 
@@ -230,7 +230,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rjVNwqr/zCFuC7Hs7ld8LV3LefxfG4XUR6OFtjTvy7R4ErFam580AnZwjsp1ZmHAxPk2/282VQwjXLb2ZbNPtw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aqiDtBQICKtaLJcdsh6j/VO7fAeZyqKsd3nVp62VASS8j38sJWjwiEJXqDspL74QyokzBKnncnQThubn/MmFJw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -266,7 +266,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="o/+4L95pUW3Bd4Ldg+BBUM6B+Y4HEzvWvhoadPCe5Zt12ES37wmpTtkMvfsY0Vy9V7O2jTc+6w7a5Sk0ocJhmA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="74688336" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hCZlSH+hIJR/WV8IS/6N4FLs9zT/uRLJPNDHV5/Gwc1SAZnQTsHYt2ciYC7Qz5ANy964N8+UwhFYL/QXzppFzg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="74688336" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/justin-brazil/JustML/subscription"
@@ -343,7 +343,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/unstar" class="starred" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="skipIoN/s1vd+S41pxxEfFiBfE7hve+NiUnNUNQsUmlkb1W6sh9LeMWCERM8LVmRwbMzTdGQP1Xttv4QhXDWag==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/unstar" class="starred" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="av02LI0kx9j/VB92ABv7TmHISco/2md0OGBrk3EJjLC82sq0vEQ/++cvIFCbKuaj+PoGyQ/3t6xcn1jTIFUIsw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -357,7 +357,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/star" class="unstarred" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rXneaR6NJe3w9k4ZOobtC87EZ4xodOVlcG854hwNklF7XiLxL+3dzuiNcT+ht/DmV/Yoj1hZNb0UkAqiTVEWUg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/star" class="unstarred" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="y0lAxta2OfKA4otip6FTULfR9KyYbtH7a1kcO0jRQGIdbrxe59bB0ZiZtEQ8kE69LuO7r6hDASMPpi97GY3EYQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -375,7 +375,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/fork" class="btn-with-count" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NYIPZ+yIgeFZJ8n26eLNJ5huPrMnYwNLDf1XDc2RvcPjpfP/3eh5wkFc9tBy09DKAVxxsBdO05NpAmRNnM05wA==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/fork" class="btn-with-count" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YtgmSZkXjFUksn5aYeKc2E/zxbrXZWBfWQLjD1ZJqrG0/9rRqHd0djzJQXz604E11sGKuedIsIc9/dBPBxUusg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -465,9 +465,9 @@
 
     
 
-<a href="/justin-brazil/JustML/blob/b697bc9050de491713167dfac8cd2609c51005c4/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/justin-brazil/JustML/blob/b697bc9050de491713167dfac8cd2609c51005c4/Function%20-%20Deploy-Directories.ps1" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:4703617077ee0f0bb25d8e01d891bd02 -->
+<!-- blob contrib key: blob_contributors:v21:875460c4dd5c238ce3d62af0554a4e30 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -509,7 +509,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/justin-brazil/JustML/blob/master/README.md"
+               href="/justin-brazil/JustML/blob/master/Function%20-%20Deploy-Directories.ps1"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -520,7 +520,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AwxxZbPTLmkf9P6e0NxmOb3IGRQb3WAfDwCFI9aDj+LVK439grPWSgePwbhL7XvUJPpWFyvwsMdr/7Zjh98L4Q==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jhgCbEETFw1XsMymvEvZsn8f0XzqL85qJkSq8L0CQ1xYP/70cHPvLk/L84AnesRf5i2ef9oCHrJCu5mw7F7HXw==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -528,7 +528,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="README.md">
+            <input type="hidden" name="path" id="path" value="Function%20-%20Deploy-Directories.ps1">
 </form>
       </div>
 
@@ -555,22 +555,24 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/justin-brazil/JustML"><span>JustML</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/justin-brazil/JustML"><span>JustML</span></a></span></span><span class="separator">/</span><strong class="final-path">Function - Deploy-Directories.ps1</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/justin-brazil/JustML/commit/b697bc9050de491713167dfac8cd2609c51005c4" data-pjax>
-          b697bc9
+        <a class="commit-tease-sha" href="/justin-brazil/JustML/commit/cfe4fc19ba6374d0845791d53ee0650fff50ecb3" data-pjax>
+          cfe4fc1
         </a>
-        <relative-time datetime="2016-11-24T16:23:05Z">Nov 24, 2016</relative-time>
+        <relative-time datetime="2016-11-24T16:14:25Z">Nov 24, 2016</relative-time>
       </span>
       <div>
         <img alt="@justin-brazil" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/11823056?v=3&amp;s=40" width="20" />
         <a href="/justin-brazil" class="user-mention" rel="author">justin-brazil</a>
-          <a href="/justin-brazil/JustML/commit/b697bc9050de491713167dfac8cd2609c51005c4" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
+          <a href="/justin-brazil/JustML/commit/cfe4fc19ba6374d0845791d53ee0650fff50ecb3" class="message" data-pjax="true" title="JustML : Initial Release
+
+Initial release of core Just-ML functions and templates (Initialize-Script, Deploy-Directories, Popup-Notifications, Record-Event)">JustML : Initial Release</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -598,24 +600,24 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/justin-brazil/JustML/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/justin-brazil/JustML/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
-      <a href="/justin-brazil/JustML/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/justin-brazil/JustML/raw/master/Function%20-%20Deploy-Directories.ps1" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/justin-brazil/JustML/blame/master/Function%20-%20Deploy-Directories.ps1" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
+      <a href="/justin-brazil/JustML/commits/master/Function%20-%20Deploy-Directories.ps1" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/justin-brazil/JustML?branch=master&amp;filepath=README.md"
+           href="github-windows://openRepo/https://github.com/justin-brazil/JustML?branch=master&amp;filepath=Function%20-%20Deploy-Directories.ps1"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="39rtpz3TcrPVJ7+ewmy0SWmZ0j9yWEuIAhO6l9NYPpYJ/RE/DLOKkM1cgLhZXamk8KudPEJ1m1Bm7InXggS6lQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/edit/master/Function%20-%20Deploy-Directories.ps1" class="inline-form js-update-url-with-hash" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fiB2vNqCdZVHR/as1BInyP24YMd0Cr91tQXTyFLtAP6oB4ok6+KNtl88yYpPIzolZIovxEQnb63R+uCIA7GE/Q==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/delete/master/README.md" class="inline-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ftR1atIRWDKov2saitaWV4fwqF/nIr74+NX1wx+TNbCo84ny43GgEbDEVDwR54u6HsLnXNcPbiCcKsaDTs+xsw==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/justin-brazil/JustML/delete/master/Function%20-%20Deploy-Directories.ps1" class="inline-form" data-form-nonce="6c6915b39745149ec77ca91828acd85980b633f0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/+l29ONmeHirZy2ZPPdbarXuXLVpRED1tBjWX/e5pIkpzops0gaAW7McEr+nxkaHLNwTtllpkC3Q5+UfpuUgig==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -623,28 +625,397 @@
 </form>  </div>
 
   <div class="file-info">
-      15 lines (8 sloc)
+      92 lines (68 sloc)
       <span class="file-info-divider"></span>
-    893 Bytes
+    2.9 KB
   </div>
 </div>
 
   
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-justml" class="anchor" href="#justml" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>JustML</h1>
 
-<p>JustML is a custom markup language designed by Justin Brazil that allows text-based data to be filtered, sorted, cataloged, and parsed programattically.</p>
+  <div itemprop="text" class="blob-wrapper data type-powershell">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#####################SCRIPT_CONTROLS##</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Name &quot;FUNCTION - Deploy-Directories&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Author &quot;Justin Brazil&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Description &quot;Deploys standardized PoSH Directories to the root of C:\&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Tags &quot;Deploy,Directories,PoSH,PowerShell,Create,Structure,Local,Folders&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Type &quot;Function,Script,Code&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Product &quot;Deploy-Directories,PowerShell&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Modes &quot;Scripting&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Notes &quot;Creates C:\PowerShell structure&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Link &quot;\\qnap\scripting\PowerShell\&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Group &quot;JustML&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!#Special &quot;Universal&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c">####################/SCRIPT_CONTROLS##</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">                                                                                                                        <span class="pl-s">@&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-s">######################################                                                                                 </span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#                                    #####################################################################################</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#    DEPLOY POWERSHELL DIRECTORIES                 #   Optional tagline...</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#                                    #####################################################################################</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-s">######################################</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#UNIVERSAL</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#TAGS Directory,Directories,Folder,Folders,Configure,Deploy,Set,Setup,Set up,PowerShell,Local,Create,Item</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-s">                                                                                                           </span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-s">                 Written By: </span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-s">                 Justin Brazil          </span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-s">####   OUTLINE  ###########################################################################################################</span></td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        * Creates PowerShell directories on C</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-s">      USAGE:   </span></td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        * DEPLOY-DIRECTORIES</span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-s">############################################################################################################################ </span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;@</span>        </td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-k">Function</span> <span class="pl-en">Deploy-Directories</span> {</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span> <span class="pl-k">=</span> <span class="pl-s">&#39;C:\PowerShell\&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-k">$</span><span class="pl-smi">FOLDER_SUBFOLDERS</span> <span class="pl-k">=</span> <span class="pl-k">@(</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;AppData&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Backups&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Config&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Logs&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Results&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Scheduling&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Scripts&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Temp&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-s">&quot;Variables&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-k">)</span></td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;#####################################&quot;</span> <span class="pl-k">-</span>ForegroundColor Cyan</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;    DEPLOY POWERSHELL DIRECTORIES    &quot;</span> <span class="pl-k">-</span>ForegroundColor Cyan</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;#####################################&quot;</span> <span class="pl-k">-</span>ForegroundColor Cyan</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> <span class="pl-k">(</span><span class="pl-k">!</span><span class="pl-k">(</span><span class="pl-c1">Test-Path</span> <span class="pl-k">-</span>path <span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span><span class="pl-k">)</span><span class="pl-k">)</span></td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">New-Item</span> <span class="pl-k">-</span>ItemType Directory <span class="pl-k">-</span>Path <span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span></td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;Created <span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span> Directory&quot;</span> <span class="pl-k">-</span>ForegroundColor Yellow</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-k">else</span> </td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;PowerShell Root Verified : <span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span>&quot;</span> <span class="pl-k">-</span>ForegroundColor Green</td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-k">ForEach</span> <span class="pl-k">(</span><span class="pl-k">$</span><span class="pl-smi">SUBFOLDER</span> <span class="pl-k">in</span> <span class="pl-k">$</span><span class="pl-smi">FOLDER_SUBFOLDERS</span><span class="pl-k">)</span></td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">$</span><span class="pl-smi">TEMP_SUBFOLDER</span> <span class="pl-k">=</span> <span class="pl-k">(</span><span class="pl-k">$</span><span class="pl-smi">FOLDER_ROOT</span> <span class="pl-k">+</span> <span class="pl-k">$</span><span class="pl-smi">SUBFOLDER</span><span class="pl-k">)</span></td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> <span class="pl-k">(</span><span class="pl-k">!</span><span class="pl-k">(</span><span class="pl-c1">Test-Path</span> <span class="pl-k">$</span><span class="pl-smi">TEMP_SUBFOLDER</span><span class="pl-k">)</span><span class="pl-k">)</span></td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">        {</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">            <span class="pl-c1">New-Item</span> <span class="pl-k">-</span>ItemType Directory <span class="pl-k">$</span><span class="pl-smi">TEMP_SUBFOLDER</span></td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">            <span class="pl-c1">Write-Host</span> <span class="pl-s">&quot;Created <span class="pl-k">$</span><span class="pl-smi">TEMP_SUBFOLDER</span>&quot;</span> <span class="pl-k">-</span>ForegroundColor Yellow</td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">else</span> </td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">        {</td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">            <span class="pl-c1">write-host</span> <span class="pl-s">&quot;Verified <span class="pl-k">$</span><span class="pl-smi">TEMP_SUBFOLDER</span> is present&quot;</span> <span class="pl-k">-</span>ForegroundColor Green</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+</table>
 
-<p>A PowerShell scripting standardization framework that prorivdes consistent handling and storage of scripts, logs, output, and parsable text-based data.  Implementation of these standards in all scripts allows you to handle all of these items with absolute consistency, and provides a markup laguage that enables your files to be indexed, cataloged, and sorted with a high degree of precision.</p>
-
-<h2><a id="user-content-files" class="anchor" href="#files" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>FILES:</h2>
-
-<p>DEPLOY-DIRECTORIES : Deploy a series of standardized directories to C:\PowerShell</p>
-
-<p>INITIALIZE-SCRIPT : Deploys universal script initialization functions POPUP-NOTIFICATION, RECORD-EVENT, INITIALIZE-LOGFILE</p>
-
-<p>JustML Header Definitions :  Defines the header syntax for parsable header data for easy indexing/categorization</p>
-</article>
   </div>
 
 </div>
@@ -682,7 +1053,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.07738s from github-fe124-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.06902s from github-fe-5989992.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
